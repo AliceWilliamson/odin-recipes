@@ -1,0 +1,1 @@
+This repo is basic recipe website built in HTML as part of the Odin project course
