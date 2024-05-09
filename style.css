@@ -7,6 +7,17 @@
     font-size: 30px;
     font-style: italic;
 }
-.header{
+.ingredients{
     font-style: italic;
+}
+body{
+    max-width: 500px;
+    word-wrap: break-word;
+}
+.header{
+    text-decoration: underline;
+}
+
+hr {
+    width: 500px;
 }
