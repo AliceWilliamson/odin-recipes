@@ -1,3 +1,4 @@
+
 #title{
     color: red;
     font-size: 40px;
@@ -5,10 +6,11 @@
 }
 .links{
     font-size: 30px;
-    font-style: italic;
+    font-style: italic;;
 }
 .ingredients{
     font-style: italic;
+    background-color: red;
 }
 body{
     max-width: 500px;
@@ -16,8 +18,18 @@ body{
 }
 .header{
     text-decoration: underline;
+    background: blue;
 }
-
+.description{
+    background-color: aqua;
+}
+.page-title{
+    background-color: purple;
+    
+}
+.steps{
+    background-color: orange;
+}
 hr {
     width: 500px;
 }
