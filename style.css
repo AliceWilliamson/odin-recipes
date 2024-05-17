@@ -1,35 +1,50 @@
 
+body{
+    max-width: 500px;
+    word-wrap: break-word; 
+}
 #title{
-    color: red;
     font-size: 40px;
     font-weight: bold;
 }
 .links{
     font-size: 30px;
     font-style: italic;;
+    margin-left: auto;
 }
 .ingredients{
     font-style: italic;
-    background-color: red;
+    margin-bottom: 30px;
 }
-body{
-    max-width: 500px;
-    word-wrap: break-word;
-}
+
 .header{
     text-decoration: underline;
-    background: blue;
+    margin-left: 3%;
 }
 .description{
-    background-color: aqua;
+    margin-left: 4.5%;
+    margin-bottom: 30px;
 }
 .page-title{
-    background-color: purple;
-    
+    text-align: center;
+    text-decoration: underline;
 }
 .steps{
-    background-color: orange;
-}
+    margin-bottom: 100px;
+} 
 hr {
     width: 500px;
+}
+#lasagna{
+    background-color: rgba(255, 38, 0, 0.151);
+}
+#guacamole{
+    background-color: rgba(0, 255, 0, 0.158);
+}
+#cookies{
+    background-color: rgba(153, 91, 29, 0.267);
+}
+#main-page{
+    background-color: aliceblue
+    
 }
